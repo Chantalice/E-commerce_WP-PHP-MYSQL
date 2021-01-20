@@ -45,12 +45,18 @@ Pour construire mon site,
 - un plugin SEO : The SEO Framework
 - un plugin Multilingue : GTranslate
 - un plugin RGPD (Règlement Général pour la Protection des Données) : GDPR Cookie Consent
+
 2. j’ai donné un intitulé à mon site « Mécén@Solidaire – le B @ BA des B.A. ! »
+
 3. je lui ai attribué un logo
+
 ![Le site](./ScreenShots/Image5.png)
+
 4. j’ai créé ou modifier les pages proposées afin d’intégrer notamment :
 - une page produits « Nos mécénats » : 3 produits dans une catégorie « Mécénat de compétences » : ces produits seront automatiquement enregistrés dans ma base de données :
+
 ![la BDD](./ScreenShots/Image6.png)
+
 - une page « Mentions légales et conditions de vente »
 
 Crédit Images Pixabay.
