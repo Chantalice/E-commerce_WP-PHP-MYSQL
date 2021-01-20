@@ -16,7 +16,9 @@ Les avantages de WAMP : comprend également PHP 7.3.21, PhpMyAdmin 5.0.2, MySQL 
 ![logo Wamp](./ScreenShots/Image1.png)
 
 	> Wamp est en marche quand son logo est vert dans la barre des tâches
-	![Bouton Wamp](./ScreenShots/Image2.png)
+		
+![Bouton Wamp](./ScreenShots/Image2.png)
+
 	> Cliquer sur ce bouton pour obtenir le menu suivant : ![Menu Wamp](./ScreenShots/Image3.png)
 
 **Créer la base de données grâce à phpmyadmin** :
