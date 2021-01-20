@@ -1,6 +1,6 @@
 # Boutique E-commerce Wordpress!
 
-1. **Installation de l’environnement en local** :
+**Installation de l’environnement en local** :
 
 - Installation de WAMPSERVER à faire en tant qu'administrateur et suivre les instructions détaillées sur [https://wampserver.aviatechno.net/?lang=fr&prerequis=afficher](https://wampserver.aviatechno.net/?lang=fr&prerequis=afficher)
 
@@ -9,8 +9,8 @@ Les avantages de WAMP : comprend également PHP 7.3.21, PhpMyAdmin 5.0.2, MySQL 
 
 - Installation de WORDPRESS en local : [https://fr.wordpress.org/download/](https://fr.wordpress.org/download/)
 
-a. Une fois téléchargé, dézipper l’archive et déplacer le dossier wordpress dans le répertoire www de wamp
-b. Renommer le dossier avec le nom de votre site, le nom doit être écrit en minuscule sans espace : personnellement je l’ai appelé « commerce » tout simplement !
+1. Une fois téléchargé, dézipper l’archive et déplacer le dossier wordpress dans le répertoire www de wamp
+2. Renommer le dossier avec le nom de votre site, le nom doit être écrit en minuscule sans espace : personnellement je l’ai appelé « commerce » tout simplement !
 
-2. **Lancer WAMP** :
+**Lancer WAMP** :
 ![DESCRIPTION DE L'IMAGE](./ScreenShots/Image1.png)
