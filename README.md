@@ -14,6 +14,7 @@ Les avantages de WAMP : comprend également PHP 7.3.21, PhpMyAdmin 5.0.2, MySQL 
 
 **Lancer WAMP** :
 ![logo Wamp](./ScreenShots/Image1.png)
+
 	> Wamp est en marche quand son logo est vert dans la barre des tâches ![Bouton Wamp](./ScreenShots/Image2.png)
 	> Cliquer sur ce bouton pour obtenir le menu suivant : ![Menu Wamp](./ScreenShots/Image3.png)
 
@@ -30,10 +31,10 @@ Les avantages de WAMP : comprend également PHP 7.3.21, PhpMyAdmin 5.0.2, MySQL 
 - Renseignez le nom de la base de données (créée dans l'onglet phpMyAdmin), le nom de l'utilisateur, dans notre cas “root”, pas besoin de mot de passe, ni d'adresse pour la base de données. Il n'est pas nécessaire de modifier le préfixe de la table ; cliquer sur Valider ;
 - On vous indique que c'est parfait. Cliquer sur Lancer l'installation ;
 - Une page s'affiche vous demandant des informations :
--- Renseigner le titre de votre futur site WordPress. Il s'affichera dans l'interface d'admin de WordPress, sur la page d'accueil du site et dans l'élément <title> du code source de vos pages Web ;
--- Compléter le champ Nom d'utilisateur et le champ Mot de passe pour vous créer un profil utilisateur et accédez à l'admin de votre site Web ;
--- Insérer votre adresse mail pour recevoir les notifications d'activités de votre site et le lien de renouvellement de mot de passe. Cette fonction sera opérationnelle lorsque votre site sera en ligne et que votre hébergeur autorise la fonction email sur votre serveur ;
--- Il n'est pas utile de cocher la case de visibilité auprès des moteurs de recherche. Nous sommes en local ;
+> Renseigner le titre de votre futur site WordPress. Il s'affichera dans l'interface d'admin de WordPress, sur la page d'accueil du site et dans l'élément <title> du code source de vos pages Web ;
+> Compléter le champ Nom d'utilisateur et le champ Mot de passe pour vous créer un profil utilisateur et accédez à l'admin de votre site Web ;
+> Insérer votre adresse mail pour recevoir les notifications d'activités de votre site et le lien de renouvellement de mot de passe. Cette fonction sera opérationnelle lorsque votre site sera en ligne et que votre hébergeur autorise la fonction email sur votre serveur ;
+> Il n'est pas utile de cocher la case de visibilité auprès des moteurs de recherche. Nous sommes en local ;
 - Cliquer sur Installer ;
 - Cliquer sur Se connecter et renseigner vos identifiant et mot de passe ;
 - Vous avez désormais accès à l'admin : pour visualiser votre site WordPress en local, cliquez sur le nom de votre site situé en haut à gauche dans la barre noire de l'administration.
